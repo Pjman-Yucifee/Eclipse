@@ -22,3 +22,5 @@ param
 retval
 int
 systick
+lowlevel
+newlib
