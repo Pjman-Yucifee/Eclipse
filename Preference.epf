@@ -1,13 +1,13 @@
-#Tue Dec 06 17:53:12 IRST 2022
+#Wed Dec 07 08:49:22 IRST 2022
 \!/=
 /configuration/com.genuitec.eclipse.codetogether.ui/check.profile.iu=true
 /configuration/com.genuitec.eclipse.codetogether.ui/codetogether.main.view.displayed=true
 /configuration/com.genuitec.eclipse.meexplorer/breadcrumb.show.default=false
-/configuration/com.genuitec.eclipse.monitor//webclipse/ideused/dayOfMonth=6
+/configuration/com.genuitec.eclipse.monitor//webclipse/ideused/dayOfMonth=7
 /configuration/com.genuitec.eclipse.monitor//webclipse/ideused/month=11
-/configuration/com.genuitec.eclipse.monitor/ideused=2
-/configuration/com.genuitec.eclipse.startup/features=[{"launchCount"\:17,"id"\:"com.genuitec.eclipse.theming.designer.feature","version"\:"1.11.0.202206271604"},{"launchCount"\:17,"id"\:"com.genuitec.eclipse.theming.feature","version"\:"1.11.0.202206271604"}]
-/configuration/com.genuitec.eclipse.startup/launchCount=17
+/configuration/com.genuitec.eclipse.monitor/ideused=3
+/configuration/com.genuitec.eclipse.startup/features=[{"launchCount"\:18,"id"\:"com.genuitec.eclipse.theming.designer.feature","version"\:"1.11.0.202206271604"},{"launchCount"\:18,"id"\:"com.genuitec.eclipse.theming.feature","version"\:"1.11.0.202206271604"}]
+/configuration/com.genuitec.eclipse.startup/launchCount=18
 /configuration/com.genuitec.eclipse.startup/welcomeFlowVersionShown=3
 /configuration/com.genuitec.eclipse.theming.ui/PEFontSize=0
 /configuration/com.genuitec.eclipse.theming.ui/applyBackground=false
@@ -18,7 +18,7 @@
 /configuration/com.genuitec.eclipse.theming.ui/overridePEFontSize=false
 /configuration/com.genuitec.eclipse.theming.ui/showWelcomeDialog=false
 /configuration/com.genuitec.eclipse.theming.ui/workbench.theme=Dark Gray
-/configuration/com.genuitec.eclipse.webclipse.evergreen/devstyle.manifest.check.timestamp=1670333224818
+/configuration/com.genuitec.eclipse.webclipse.evergreen/devstyle.manifest.check.timestamp=1670390198956
 /configuration/com.genuitec.eclipse.webclipse.evergreen/manifest.devstyle.download.cache={"updates"\:{"release-version"\:"1.11.0.202206271604","eclipse-version"\:"[4.5.0,5.0.0)","release-notes"\:{"id"\:"ci20220613","delivery-log-url"\:"https\:\\/\\/www.genuitec.com\\/products\\/devstyle\\/deliverylog\\/","release-label"\:"CI 2021.6.13","updates"\:[{"heading"\:"Bug fixes and compatibility improvements","message"\:"This release includes a new Windows Dark theme that matches the color tone of Windows 11 Dark as well as addresses oddities with Trees on Windows 11, improvements in Terminal colors in DevStyle light themes, new and improved icons, and fixes an edge case with sharing custom themes via Theme codes.","bullet"\:{"padding"\:"tiny","overlayicon"\:"ionicons\:ios-moon","color"\:"blue","overlayscale"\:"xlarge","icon"\:"fontawesome\:square","scale"\:"full","type"\:"overlayed","overlaycolor"\:"black","size"\:"32x32","position"\:"center"},"show-if"\:{"bundles"\:["com.genuitec.eclipse.theming.ui"]}}]},"eclipse-roots"\:[{"id"\:"com.genuitec.eclipse.theming.core.feature.feature.group","version"\:"1.11.0.202206271604"},{"id"\:"com.genuitec.eclipse.theming.feature.feature.group","version"\:"1.11.0.202206271604"},{"id"\:"com.genuitec.eclipse.theming.designer.feature.feature.group","version"\:"1.11.0.202206271604"}],"binary-roots"\:[],"repository-url"\:"http\:\\/\\/downloads.genuitec.com\\/downloads\\/products\\/devstyle\\/updates\\/ds20220613a","check-interval"\:28800000,"notify-updated"\:14400000},"notifications"\:[],"notifications2"\:[]}
 /configuration/com.genuitec.eclipse.webclipse.evergreen/manifest.devstyle.download.etag=W/"62bad308-587"
 /configuration/com.genuitec.eclipse.webclipse.evergreen/manifest.devstyle.download.modified.date=Tue, 28 Jun 2022 10\:08\:08 GMT
@@ -392,8 +392,8 @@
 /instance/com.genuitec.eclipse.theming.ui/configurationInstallLocation=/C\:/ST/STM32CubeIDE_1.11.0/STM32CubeIDE/
 /instance/com.genuitec.eclipse.theming.ui/iconcolormode=primary
 /instance/com.genuitec.eclipse.theming.ui/includeThemingInOomph=false
-/instance/com.genuitec.eclipse.theming.ui/last.download.attempt.time=1670333222293
-/instance/com.genuitec.eclipse.theming.ui/lastConfiguration=1670333212884
+/instance/com.genuitec.eclipse.theming.ui/last.download.attempt.time=1670390194326
+/instance/com.genuitec.eclipse.theming.ui/lastConfiguration=1670390159946
 /instance/com.genuitec.eclipse.theming.ui/newinstall=true
 /instance/com.genuitec.eclipse.theming.ui/workbench.theme=Dark Gray
 /instance/com.github.eclipsecolortheme/colorTheme=Darkest Dark
@@ -1887,6 +1887,10 @@
 /instance/org.eclipse.cdt.ui/c_type=141,203,226
 /instance/org.eclipse.cdt.ui/codetemplates.includeGuardGenerationScheme=0
 /instance/org.eclipse.cdt.ui/content_assist_order_proposals=true
+/instance/org.eclipse.cdt.ui/content_assist_parameters_background=25,29,31
+/instance/org.eclipse.cdt.ui/content_assist_parameters_foreground=216,216,216
+/instance/org.eclipse.cdt.ui/content_assist_proposals_background=25,29,31
+/instance/org.eclipse.cdt.ui/content_assist_proposals_foreground=216,216,216
 /instance/org.eclipse.cdt.ui/content_assist_proposals_timeout=5000
 /instance/org.eclipse.cdt.ui/formatter_profile=_PJ
 /instance/org.eclipse.cdt.ui/formatter_settings_version=1
@@ -2080,7 +2084,8 @@
 /instance/org.eclipse.cdt.ui/semanticHighlighting.typedef.underline=false
 /instance/org.eclipse.cdt.ui/semanticHighlighting.udlSuffix.enabled=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.variablePassedByNonconstRef.enabled=true
-/instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor=44,49,53
+/instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor=0,0,0
+/instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor.SystemDefault=false
 /instance/org.eclipse.cdt.ui/spelling_ignore_string_literals=true
 /instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
 /instance/org.eclipse.cdt.ui/spelling_user_dictionary=${env_var\:USERPROFILE}\\Desktop\\Eclipse\\Dictionary.edf
@@ -2351,9 +2356,12 @@
 /instance/org.eclipse.egit.core/core_ssh_default_agent=\\\\.\\pageant
 /instance/org.eclipse.egit.ui/Blame_IgnoreWhitespace=true
 /instance/org.eclipse.egit.ui/CloneWizard_StoreInSecureStore=true
+/instance/org.eclipse.egit.ui/StagingView_CompareMode=false
 /instance/org.eclipse.egit.ui/always_show_push_wizard=true
 /instance/org.eclipse.egit.ui/auto_lfs_config=true
+/instance/org.eclipse.egit.ui/commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>010915</message>\r\n</messages>
 /instance/org.eclipse.egit.ui/repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<FilterCache/>
+/instance/org.eclipse.egit.ui/repository_push_settings_C\:\\Users\\RAZ\\Desktop\\Eclipse\\.git=false;false
 /instance/org.eclipse.egit.ui/show_rebase_confirm=true
 /instance/org.eclipse.egit.ui/sync_view_show_changeset_model=true
 /instance/org.eclipse.epp.mpc.ui/CatalogDescriptor=https\://marketplace.eclipse.org
@@ -2722,12 +2730,14 @@
 /instance/org.eclipse.ui.editors/currentIPColor=47,52,54
 /instance/org.eclipse.ui.editors/currentLineColor=50,57,62
 /instance/org.eclipse.ui.editors/deletionIndicationColor=210,82,82
+/instance/org.eclipse.ui.editors/errorTextStyle=BOX
 /instance/org.eclipse.ui.editors/filteredSearchResultIndicationColor=26,95,140
 /instance/org.eclipse.ui.editors/findBlockColor=255,165,0
 /instance/org.eclipse.ui.editors/findIndicationColor=47,58,119
 /instance/org.eclipse.ui.editors/hyperlinkColor=111,197,238
 /instance/org.eclipse.ui.editors/hyperlinkColor.SystemDefault=false
 /instance/org.eclipse.ui.editors/infoIndicationColor=86,194,170
+/instance/org.eclipse.ui.editors/infoTextStyle=IBEAM
 /instance/org.eclipse.ui.editors/javaScriptOccurrenceIndicationColor=65,65,4
 /instance/org.eclipse.ui.editors/lineNumberColor=208,208,208
 /instance/org.eclipse.ui.editors/linked.slave.color=66,156,255
@@ -2735,7 +2745,7 @@
 /instance/org.eclipse.ui.editors/occurrenceIndicationColor=65,65,4
 /instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.occurrenceIndicationColor=65,65,4
 /instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.writeOccurrenceIndicationColor=65,65,4
-/instance/org.eclipse.ui.editors/overriddenByCSS=,AbstractTextEditor.Color.FindScope,AbstractTextEditor.Color.Foreground,AbstractTextEditor.Color.Foreground.SystemDefault,AbstractTextEditor.Color.SelectionBackground,AbstractTextEditor.Color.SelectionForeground,LSP4EReadOccurrenceIndicationColor,LSP4ETextOccurrenceIndicationColor,LSP4EWriteOccurrenceIndicationColor,PHPReadOccurrenceIndicationColor,PHPWriteOccurrenceIndicationColor,TM4EMatchingPairColor,TextOccurrenceIndicationColor,asOccurencesIndicationColor,breakpointIndicationColor,currentIPColor,currentLineColor,deletionIndicationColor,filteredSearchResultIndicationColor,findBlockColor,findIndicationColor,hyperlinkColor,hyperlinkColor.SystemDefault,infoIndicationColor,javaScriptOccurrenceIndicationColor,lineNumberColor,linked.slave.color,matchingTagIndicationColor,occurrenceIndicationColor,org.eclipse.cdt.ui.occurrenceIndicationColor,org.eclipse.cdt.ui.writeOccurrenceIndicationColor,overrideIndicatorColor,printMarginColor,pydevOccurrenceIndicationColor,searchResultHighlighting,searchResultIndication,searchResultIndicationColor,searchResultTextStyle,secondaryIPColor,spellingIndicationColor,writeOccurrenceIndicationColor,
+/instance/org.eclipse.ui.editors/overriddenByCSS=,AbstractTextEditor.Color.FindScope,AbstractTextEditor.Color.Foreground,AbstractTextEditor.Color.Foreground.SystemDefault,AbstractTextEditor.Color.SelectionBackground,AbstractTextEditor.Color.SelectionForeground,LSP4EReadOccurrenceIndicationColor,LSP4ETextOccurrenceIndicationColor,LSP4EWriteOccurrenceIndicationColor,PHPReadOccurrenceIndicationColor,PHPWriteOccurrenceIndicationColor,TM4EMatchingPairColor,TextOccurrenceIndicationColor,asOccurencesIndicationColor,breakpointIndicationColor,currentIPColor,currentLineColor,deletionIndicationColor,filteredSearchResultIndicationColor,findBlockColor,findIndicationColor,hyperlinkColor,hyperlinkColor.SystemDefault,infoIndicationColor,javaScriptOccurrenceIndicationColor,lineNumberColor,linked.slave.color,matchingTagIndicationColor,occurrenceIndicationColor,org.eclipse.cdt.ui.occurrenceIndicationColor,org.eclipse.cdt.ui.writeOccurrenceIndicationColor,overrideIndicatorColor,printMarginColor,pydevOccurrenceIndicationColor,searchResultHighlighting,searchResultIndication,searchResultIndicationColor,searchResultTextStyle,secondaryIPColor,writeOccurrenceIndicationColor,
 /instance/org.eclipse.ui.editors/overrideIndicatorColor=75,116,113
 /instance/org.eclipse.ui.editors/printMarginColor=208,208,208
 /instance/org.eclipse.ui.editors/pydevOccurrenceIndicationColor=65,65,4
@@ -2745,9 +2755,8 @@
 /instance/org.eclipse.ui.editors/searchResultIndicationColor=0,0,0
 /instance/org.eclipse.ui.editors/searchResultTextStyle=BOX
 /instance/org.eclipse.ui.editors/secondaryIPColor=47,52,54
-/instance/org.eclipse.ui.editors/spacesForTabs=true
 /instance/org.eclipse.ui.editors/spellingEngine=org.eclipse.cdt.internal.ui.text.spelling.CSpellingEngine
-/instance/org.eclipse.ui.editors/spellingIndicationColor=253,170,211
+/instance/org.eclipse.ui.editors/spellingIndicationColor=255,128,255
 /instance/org.eclipse.ui.editors/undoHistorySize=1000
 /instance/org.eclipse.ui.editors/writeOccurrenceIndicationColor=65,65,4
 /instance/org.eclipse.ui.genericeditor/matchingBracketsColor=244,245,246
@@ -2764,6 +2773,7 @@
 /instance/org.eclipse.ui.monitoring/noninteresting_thread_filter=java.*,org.eclipse.core.internal.jobs.Worker.run,org.eclipse.core.internal.jobs.WorkerPool.sleep,org.eclipse.core.internal.jobs.WorkerPool.startJob,org.eclipse.equinox.internal.util.impl.tpt.threadpool.Executor.run,org.eclipse.equinox.internal.util.impl.tpt.timer.TimerImpl.run,org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.getNextEvent,org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run,sun.*
 /instance/org.eclipse.ui.navigator/org.eclipse.ui.navigator.ProjectExplorer.filterActivation=\:org.eclipse.jdt.java.ui.filters.HidePackageDeclaration\:org.eclipse.jdt.java.ui.filters.HideOutputFolder\:org.eclipse.cdt.ui.navigator.filters.AnonymousStructFilter\:org.eclipse.ui.navigator.resources.nested.HideTopLevelProjectIfNested\:org.eclipse.cdt.ui.navigator.filters.ForwardDeclarationFilter\:org.eclipse.jdt.java.ui.filters.HideEmptyInnerPackages\:org.eclipse.jdt.java.ui.filters.HideInnerClassFiles\:org.eclipse.ui.navigator.resources.filters.startsWithDot\:org.eclipse.jdt.java.ui.filters.HideEmptyLibraryContainers\:org.eclipse.jdt.java.ui.filters.HideImportDeclaration\:org.eclipse.jdt.java.ui.filters.HideSyntheticMembers\:org.eclipse.ui.navigator.resources.nested.HideFolderWhenProjectIsShownAsNested\:
 /instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/com.st.stm32cube.ide.mcu.buildanalyzer.showstate/org.eclipse.ui.commands.radioState=human
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.egit.ui.RepositoriesToggleBranchCommit/org.eclipse.ui.commands.toggleState=false
 /instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
 /instance/org.eclipse.ui.workbench/ACTIVE_HYPERLINK_COLOR=255,200,0
 /instance/org.eclipse.ui.workbench/CONFLICTING_COLOR=232,14,64
