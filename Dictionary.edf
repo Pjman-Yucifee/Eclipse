@@ -35,3 +35,10 @@ expr
 uncomment
 resynchronize
 ifndef
+undef
+endif
+spi
+hdma
+dma
+crc
+ctrl
