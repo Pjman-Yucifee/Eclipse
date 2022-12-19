@@ -42,3 +42,5 @@ hdma
 dma
 crc
 ctrl
+sizeof
+pendable
