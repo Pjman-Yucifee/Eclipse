@@ -44,3 +44,5 @@ crc
 ctrl
 sizeof
 pendable
+constexpr
+com

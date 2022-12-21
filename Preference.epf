@@ -1,13 +1,13 @@
-#Mon Dec 19 14:03:47 IRST 2022
+#Wed Dec 21 18:09:23 IRST 2022
 \!/=
 /configuration/com.genuitec.eclipse.codetogether.ui/check.profile.iu=true
 /configuration/com.genuitec.eclipse.codetogether.ui/codetogether.main.view.displayed=true
 /configuration/com.genuitec.eclipse.meexplorer/breadcrumb.show.default=false
-/configuration/com.genuitec.eclipse.monitor//webclipse/ideused/dayOfMonth=19
+/configuration/com.genuitec.eclipse.monitor//webclipse/ideused/dayOfMonth=21
 /configuration/com.genuitec.eclipse.monitor//webclipse/ideused/month=11
-/configuration/com.genuitec.eclipse.monitor/ideused=9
-/configuration/com.genuitec.eclipse.startup/features=[{"launchCount"\:31,"id"\:"com.genuitec.eclipse.theming.designer.feature","version"\:"1.11.0.202206271604"},{"launchCount"\:31,"id"\:"com.genuitec.eclipse.theming.feature","version"\:"1.11.0.202206271604"}]
-/configuration/com.genuitec.eclipse.startup/launchCount=31
+/configuration/com.genuitec.eclipse.monitor/ideused=11
+/configuration/com.genuitec.eclipse.startup/features=[{"launchCount"\:43,"id"\:"com.genuitec.eclipse.theming.designer.feature","version"\:"1.11.0.202206271604"},{"launchCount"\:43,"id"\:"com.genuitec.eclipse.theming.feature","version"\:"1.11.0.202206271604"}]
+/configuration/com.genuitec.eclipse.startup/launchCount=43
 /configuration/com.genuitec.eclipse.startup/welcomeFlowVersionShown=3
 /configuration/com.genuitec.eclipse.theming.ui/PEFontSize=0
 /configuration/com.genuitec.eclipse.theming.ui/applyBackground=false
@@ -18,7 +18,7 @@
 /configuration/com.genuitec.eclipse.theming.ui/overridePEFontSize=false
 /configuration/com.genuitec.eclipse.theming.ui/showWelcomeDialog=false
 /configuration/com.genuitec.eclipse.theming.ui/workbench.theme=Dark Gray
-/configuration/com.genuitec.eclipse.webclipse.evergreen/devstyle.manifest.check.timestamp=1671426209167
+/configuration/com.genuitec.eclipse.webclipse.evergreen/devstyle.manifest.check.timestamp=1671629172142
 /configuration/com.genuitec.eclipse.webclipse.evergreen/manifest.devstyle.download.cache={"updates"\:{"release-version"\:"1.11.0.202206271604","eclipse-version"\:"[4.5.0,5.0.0)","release-notes"\:{"id"\:"ci20220613","delivery-log-url"\:"https\:\\/\\/www.genuitec.com\\/products\\/devstyle\\/deliverylog\\/","release-label"\:"CI 2021.6.13","updates"\:[{"heading"\:"Bug fixes and compatibility improvements","message"\:"This release includes a new Windows Dark theme that matches the color tone of Windows 11 Dark as well as addresses oddities with Trees on Windows 11, improvements in Terminal colors in DevStyle light themes, new and improved icons, and fixes an edge case with sharing custom themes via Theme codes.","bullet"\:{"padding"\:"tiny","overlayicon"\:"ionicons\:ios-moon","color"\:"blue","overlayscale"\:"xlarge","icon"\:"fontawesome\:square","scale"\:"full","type"\:"overlayed","overlaycolor"\:"black","size"\:"32x32","position"\:"center"},"show-if"\:{"bundles"\:["com.genuitec.eclipse.theming.ui"]}}]},"eclipse-roots"\:[{"id"\:"com.genuitec.eclipse.theming.core.feature.feature.group","version"\:"1.11.0.202206271604"},{"id"\:"com.genuitec.eclipse.theming.feature.feature.group","version"\:"1.11.0.202206271604"},{"id"\:"com.genuitec.eclipse.theming.designer.feature.feature.group","version"\:"1.11.0.202206271604"}],"binary-roots"\:[],"repository-url"\:"http\:\\/\\/downloads.genuitec.com\\/downloads\\/products\\/devstyle\\/updates\\/ds20220613a","check-interval"\:28800000,"notify-updated"\:14400000},"notifications"\:[],"notifications2"\:[]}
 /configuration/com.genuitec.eclipse.webclipse.evergreen/manifest.devstyle.download.etag=W/"62bad308-587"
 /configuration/com.genuitec.eclipse.webclipse.evergreen/manifest.devstyle.download.modified.date=Tue, 28 Jun 2022 10\:08\:08 GMT
@@ -392,8 +392,8 @@
 /instance/com.genuitec.eclipse.theming.ui/configurationInstallLocation=/C\:/ST/STM32CubeIDE_1.11.0/STM32CubeIDE/
 /instance/com.genuitec.eclipse.theming.ui/iconcolormode=primary
 /instance/com.genuitec.eclipse.theming.ui/includeThemingInOomph=false
-/instance/com.genuitec.eclipse.theming.ui/last.download.attempt.time=1671426207008
-/instance/com.genuitec.eclipse.theming.ui/lastConfiguration=1671426186917
+/instance/com.genuitec.eclipse.theming.ui/last.download.attempt.time=1671633467482
+/instance/com.genuitec.eclipse.theming.ui/lastConfiguration=1671633452367
 /instance/com.genuitec.eclipse.theming.ui/newinstall=true
 /instance/com.genuitec.eclipse.theming.ui/workbench.theme=Dark Gray
 /instance/com.github.eclipsecolortheme/colorTheme=Darkest Dark
@@ -878,6 +878,7 @@
 /instance/com.st.stm32cube.common.preferences/DeviceConfigurationTool.AskToSwitchToCPerspectiveOnCodeGeneration=false
 /instance/com.st.stm32cube.common.preferences/DeviceConfigurationTool.AskToSwitchToCdtPerspective=false
 /instance/com.st.stm32cube.common.preferences/DeviceConfigurationTool.AskToSwitchToCubeMxPerspective=false
+/instance/com.st.stm32cube.ide.mcu.debug/debug.stlink_preferences/latest_version_enabled=false
 /instance/com.st.stm32cube.ide.mcu.ide.oss/project_presentation/setHierarchicalMode=false
 /instance/com.st.stm32cube.ide.mcu.toolchain/default=com.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.base.gnu-tools-for-stm32.10.3-2021.10
 /instance/com.wolfram.eclipse.MEET/overriddenByCSS=,syntaxcolor.private.non.system.symbol,syntaxcolor.symbol.conflict.local,syntaxcolor.live.bracket.matching.color,syntaxcolor.public.non.system.symbols,syntaxcolor.live.bracket.matching.italic,syntaxcolor.live.bracket.matching.strikethrough,syntaxcolor.symbol.package,syntaxcolor.symbol.system,syntaxcolor.symbol.local,syntaxcolor.number.literal,syntaxcolor.live.bracket.matching.underline,syntaxcolor.live.bracket.matching.enabled,syntaxcolor.comment,syntaxcolor.string.literal,syntaxcolor.live.bracket.matching.bold,
@@ -1406,7 +1407,7 @@
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.VariableResolutionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Symbol is not resolved\\")"}
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.VirtualMethodCallProblem=-Error
 /instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.VirtualMethodCallProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Virtual method call in constructor/destructor\\")"}
-/instance/org.eclipse.cdt.core.prj-MultiDialer/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-new/indexer/preferenceScope=0
 /instance/org.eclipse.cdt.core/ToolChainManager/order/n=0
 /instance/org.eclipse.cdt.core/astwriter.addOverride=true
 /instance/org.eclipse.cdt.core/build.all.configs.enabled=false
@@ -1890,7 +1891,7 @@
 /instance/org.eclipse.cdt.managedbuilder.core/properties/MultiDialer.null.740970318/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1934365375=com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex.184785112\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver.1309810184\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary.19652700\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.573137966\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog.927978629\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.531994591\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec.250223284\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1934365375\=rebuildState\\\=false\\r\\nrcState\\\=0\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.debug.1247056325\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.1909472058\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size.859061361\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker.728570156\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile.1537282852\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.704215191\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.304211691\=rebuildState\\\=false\\r\\n\r\n
 /instance/org.eclipse.cdt.managedbuilder.core/properties/MultiDialer.null.740970318/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.945018282=com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.1999165879\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker.1733822971\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec.374962508\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile.984966844\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size.1531675964\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.945018282\=rebuildState\\\=false\\r\\nrcState\\\=0\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog.2122568335\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.145184064\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.955156527\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.723906780\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.debug.1703712225\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary.1372975310\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver.1173684830\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.1650185428\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex.710193615\=rebuildState\\\=false\\r\\n\r\n
 /instance/org.eclipse.cdt.managedbuilder.core/properties/MultiDialer.null.740970318/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.341006193=com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size.1344816107\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.1925603362\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.385634610\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.1316063530\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker.834291004\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog.913654547\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.release.2018697604\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile.1152726691\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.1988128584\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex.1711213422\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary.690418165\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver.1804610273\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.1765200496\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec.137427640\=rebuildState\\\=true\\r\\n\r\n
-/instance/org.eclipse.cdt.managedbuilder.core/properties/new.null.1719269517/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.556806154=com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.1341288913\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec.1497079040\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.35409045\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.2136272704\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.1509243332\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex.1147447141\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.debug.573665933\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.556806154\=rebuildState\\\=false\\r\\nrcState\\\=0\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver.1253608866\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size.653827628\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary.938015696\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog.663909442\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker.374207050\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile.556626907\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.1741251275\=rebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/new.null.1719269517/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.556806154=com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.1341288913\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec.1497079040\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.35409045\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.2136272704\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.1509243332\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex.1147447141\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.debug.573665933\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.556806154\=rebuildState\\\=false\\r\\nrcState\\\=0\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver.1253608866\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size.653827628\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary.938015696\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog.663909442\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker.374207050\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.1509243332.762034463\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile.556626907\=rebuildState\\\=false\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.1741251275\=rebuildState\\\=false\\r\\n\r\n
 /instance/org.eclipse.cdt.managedbuilder.core/properties/new.null.1719269517/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1192026308=com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker.1939374155\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.303535190\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile.931433770\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.1312230167\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex.1750815918\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.release.272029222\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec.887012172\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog.406941856\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.1625364743\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size.1432327749\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.47626129\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary.1777631394\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver.2102647202\=rebuildState\\\=true\\r\\n\r\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.1579212402\=rebuildState\\\=true\\r\\n\r\n
 /instance/org.eclipse.cdt.ui.prj-MultiDialer/buildConsole/keepLog=false
 /instance/org.eclipse.cdt.ui.prj-MultiDialer/buildConsole/logLocation=C\:\\Users\\RAZ\\STM32CubeIDE\\workspace_1.11.0\\.metadata\\.plugins\\org.eclipse.cdt.ui\\MultiDialer.build.log
@@ -1930,6 +1931,7 @@
 /instance/org.eclipse.cdt.ui/escapeStrings=true
 /instance/org.eclipse.cdt.ui/formatter_profile=_PJ
 /instance/org.eclipse.cdt.ui/formatter_settings_version=1
+/instance/org.eclipse.cdt.ui/formattingScopeForEmptySelection=statement
 /instance/org.eclipse.cdt.ui/forwardDeclare.enums=true
 /instance/org.eclipse.cdt.ui/forwardDeclare.externalVariables=true
 /instance/org.eclipse.cdt.ui/forwardDeclare.functions=true
@@ -1938,6 +1940,7 @@
 /instance/org.eclipse.cdt.ui/hoverModifierMasks=org.eclipse.cdt.ui.BestMatchHover;0;org.eclipse.cdt.debug.internal.ui.editors.DebugTextHover;0;org.eclipse.cdt.ui.ProblemHover;0;org.eclipse.cdt.ui.CDocHover;0;org.eclipse.cdt.ui.CMacroExpansionHover;0;org.eclipse.cdt.ui.CSourceHover;131072;org.eclipse.cdt.ui.AnnotationHover;0;
 /instance/org.eclipse.cdt.ui/hoverModifiers=org.eclipse.cdt.ui.BestMatchHover;0;org.eclipse.cdt.debug.internal.ui.editors.DebugTextHover;\!0;org.eclipse.cdt.ui.ProblemHover;\!0;org.eclipse.cdt.ui.CDocHover;\!0;org.eclipse.cdt.ui.CMacroExpansionHover;\!0;org.eclipse.cdt.ui.CSourceHover;Shift;org.eclipse.cdt.ui.AnnotationHover;\!0;
 /instance/org.eclipse.cdt.ui/inactiveCodeColor=63,63,63
+/instance/org.eclipse.cdt.ui/inactiveCodeEnable=false
 /instance/org.eclipse.cdt.ui/includeStyle.external=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<style angle_brackets\="false" blank_line_before\="false" keep_together\="false" relative_path\="false"/>
 /instance/org.eclipse.cdt.ui/includeStyle.inOtherProject=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<style angle_brackets\="false" blank_line_before\="false" keep_together\="false" relative_path\="false"/>
 /instance/org.eclipse.cdt.ui/includeStyle.inSameProject=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<style angle_brackets\="false" blank_line_before\="false" keep_together\="false" relative_path\="false"/>
@@ -2414,7 +2417,7 @@
 /instance/org.eclipse.egit.ui/StagingView_SyncWithSelection=false
 /instance/org.eclipse.egit.ui/always_show_push_wizard=true
 /instance/org.eclipse.egit.ui/auto_lfs_config=true
-/instance/org.eclipse.egit.ui/commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>010922</message>\r\n<message>010921</message>\r\n<message>010916</message>\r\n<message>010915</message>\r\n</messages>
+/instance/org.eclipse.egit.ui/commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>010928</message>\r\n<message>010922</message>\r\n<message>010921</message>\r\n<message>010916</message>\r\n<message>010915</message>\r\n</messages>
 /instance/org.eclipse.egit.ui/repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<FilterCache/>
 /instance/org.eclipse.egit.ui/repository_push_settings_C\:\\Users\\RAZ\\Desktop\\Eclipse\\.git=false;false
 /instance/org.eclipse.egit.ui/show_rebase_confirm=true
@@ -2445,6 +2448,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.release=enabled
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=11
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.timeoutForParameterNameFromAttachedJavadoc=50
 /instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1670320444531" defaultVMConnector\="">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="1670320444531" name\="jre" path\="C\:\\ST\\STM32CubeIDE_1.11.0\\STM32CubeIDE\\plugins\\com.st.stm32cube.ide.jre.win64_2.3.0.202207290817\\jre"/>\r\n    </vmType>\r\n</vmSettings>\r\n
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_background=200,200,0
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_foreground=194,0,0
@@ -2642,8 +2646,8 @@
 /instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 /instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 /instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-/instance/org.eclipse.launchbar.core/configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:new Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MultiDialer Debug
-/instance/org.eclipse.launchbar.core/org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MultiDialer\ Debug/activeLaunchMode=debug
+/instance/org.eclipse.launchbar.core/configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MultiDialer Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:new Debug
+/instance/org.eclipse.launchbar.core/org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MultiDialer\ Debug/activeLaunchMode=run
 /instance/org.eclipse.launchbar.core/org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MultiDialer\ Debug/activeLaunchTarget=null\:---
 /instance/org.eclipse.launchbar.core/org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:new\ Debug/activeLaunchMode=run
 /instance/org.eclipse.mylyn.wikitext.ui/block-h1=font-size\: 120%; font-weight\: bold; color\: \#118bbd;
@@ -2806,6 +2810,7 @@
 /instance/org.eclipse.ui.editors/matchingTagIndicationColor=65,65,4
 /instance/org.eclipse.ui.editors/occurrenceIndicationColor=65,65,4
 /instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.occurrenceIndicationColor=65,65,4
+/instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.writeOccurrenceHighlighting=false
 /instance/org.eclipse.ui.editors/org.eclipse.cdt.ui.writeOccurrenceIndicationColor=65,65,4
 /instance/org.eclipse.ui.editors/overriddenByCSS=,AbstractTextEditor.Color.FindScope,AbstractTextEditor.Color.Foreground,AbstractTextEditor.Color.Foreground.SystemDefault,AbstractTextEditor.Color.SelectionBackground,AbstractTextEditor.Color.SelectionForeground,LSP4EReadOccurrenceIndicationColor,LSP4ETextOccurrenceIndicationColor,LSP4EWriteOccurrenceIndicationColor,PHPReadOccurrenceIndicationColor,PHPWriteOccurrenceIndicationColor,TM4EMatchingPairColor,TextOccurrenceIndicationColor,asOccurencesIndicationColor,breakpointIndicationColor,currentIPColor,currentLineColor,deletionIndicationColor,filteredSearchResultIndicationColor,findBlockColor,findIndicationColor,hyperlinkColor,hyperlinkColor.SystemDefault,infoIndicationColor,javaScriptOccurrenceIndicationColor,lineNumberColor,linked.slave.color,matchingTagIndicationColor,occurrenceIndicationColor,org.eclipse.cdt.ui.occurrenceIndicationColor,org.eclipse.cdt.ui.writeOccurrenceIndicationColor,overrideIndicatorColor,printMarginColor,pydevOccurrenceIndicationColor,searchResultHighlighting,searchResultIndication,searchResultIndicationColor,searchResultTextStyle,secondaryIPColor,writeOccurrenceIndicationColor,
 /instance/org.eclipse.ui.editors/overrideIndicatorColor=75,116,113
@@ -2866,6 +2871,7 @@
 /instance/org.eclipse.ui.workbench/org.eclipse.cdt.internal.ui.text.doctools.doxygen.multi=75,113,227
 /instance/org.eclipse.ui.workbench/org.eclipse.cdt.internal.ui.text.doctools.doxygen.recognizedTag=73,93,111
 /instance/org.eclipse.ui.workbench/org.eclipse.cdt.internal.ui.text.doctools.doxygen.single=75,113,227
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.ui.ColoredLabels.match_highlight=73,83,90
 /instance/org.eclipse.ui.workbench/org.eclipse.cdt.ui.ColoredLabels.writeaccess_highlight=52,46,35
 /instance/org.eclipse.ui.workbench/org.eclipse.cdt.ui.asm_directive=255,0,255
 /instance/org.eclipse.ui.workbench/org.eclipse.cdt.ui.asm_label=255,0,255
@@ -2931,6 +2937,7 @@
 /instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.UncommittedChangeBackgroundColor=25,29,31
 /instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.UncommittedChangeForegroundColor=216,220,223
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.ColoredLabels.inherited=143,143,191
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.ColoredLabels.match_highlight=73,83,90
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.ColoredLabels.writeaccess_highlight=255,128,128
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.Javadoc.backgroundColor=48,54,59
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.Javadoc.foregroundColor=235,237,239
@@ -3402,6 +3409,7 @@
 @com.genuitec.eclipse.monitor=13.0.0.202206271604
 @com.genuitec.eclipse.theming.ui=1.11.0.202206271604
 @com.st.stm32cube.common.preferences=2.0.0.202105030704
+@com.st.stm32cube.ide.mcu.debug=2.0.300.202210191513
 @com.st.stm32cube.ide.mcu.ide.oss=2.0.100.202205190750
 @com.st.stm32cube.ide.mcu.toolchain=2.1.100.202206011152
 @org.eclipse.cdt.codan.core=4.1.100.202010121414
