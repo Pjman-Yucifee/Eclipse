@@ -79,8 +79,10 @@ multidata
 multi
 wrtite
 millisec
-cmd
-datas
 backlight
-bl
-bmp
+bitdeph
+paralell
+mosi
+miso
+
+
