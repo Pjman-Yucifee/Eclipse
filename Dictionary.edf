@@ -86,3 +86,7 @@ mosi
 miso
 
 
+tmpo
+printf
+scanf
+subnet
